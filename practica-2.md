@@ -2,7 +2,7 @@
 
 # Level 21
 
-![image](https://github.com/user-attachments/assets/582418ff-bc5c-4854-ac3d-4079e398b4ee)
+![image](https://github.com/user-attachments/assets/fcab7da9-3a7d-42c9-a962-6db0b491cb79)
 
 ***Un hacker mexicano, me encanta la pizza y los ajolotes.***
 
