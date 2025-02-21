@@ -18,4 +18,4 @@ Me gusta:
 - Leer: Me gusta estudiar de muchos temas, principalmente la biblia, y algunos libros de ciencia, de forma recreativa me gusta el romance, y la fantasía.
 ```
 
-***No tengo redes sociales, soy de CIBERSEGURIDAD***
+***No tengo redes sociales***
