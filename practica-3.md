@@ -47,5 +47,5 @@ Se pueden usar para mejorar la funcionalidad de sitios web y aplicaciones, otro 
 # Referencias 
 
 [AWS](https://aws.amazon.com/es/what-is/restful-api/?nc1=h_ls)
+
 [Red Hat](https://www.redhat.com/es/topics/api/what-is-a-rest-api#:~:text=Una%20API%20de%20REST%20es,para%20dise%C3%B1ar%20una%20API%20web.)
-[IBM](https://www.ibm.com/mx-es/topics/rest-apis#:~:text=Una%20API%20REST%20(API%20RESTful,componentes%20en%20arquitecturas%20de%20microservicios.)
