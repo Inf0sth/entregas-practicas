@@ -1,14 +1,21 @@
+:root {
+    --primary-color: #333;
+    --secondary-color: #b6ae47;
+    --font-family: "Chakra Petch", sans-serif;
+}
+
 html {
     font-size: 100%;
     box-sizing: border-box;
 }
 body {
-    font-family: "Silkscreen", sans-serif;
+    font-family: var(--font-family);
     font-weight: 400;
     font-style: normal;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    color: #000;
 }
 .container {
     width: 80%;
@@ -16,14 +23,14 @@ body {
     overflow: hidden;
 }
 header {
-    background: #333;
+    background: var(--primary-color);
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #77aaff 3px solid;
+    border-bottom: var(--secondary-color) 3px solid;
 }
 header a {
-    color: #fff;
+    color: #dbc27b;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
@@ -36,13 +43,16 @@ header li {
     display: inline;
     padding: 0 20px 0 20px;
 }
+header nav ul {
+    background-color: var(--primary-color);
+}
 .main-content {
     padding: 20px;
     background: #fff;
     margin-top: 20px;
 }
 footer {
-    background: #333;
+    background: var(--primary-color);
     color: #fff;
     text-align: center;
     padding: 10px 0;
@@ -75,4 +85,71 @@ footer {
 .project-card img {
     max-width: 100%;
     height: auto;
+}
+
+a {
+    color: #6ef790;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0c8a4b;
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#header-title {
+    font-size: 2em;
+    color: #e4e4e4;
+}
+
+#about-image {
+    border-radius: 5%;
+    border: 2px solid var(--secondary-color);
+}
+
+#contact-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.highlight {
+    background-color: rgb(255, 255, 255);
+}
+
+.center-text {
+    text-align: center;
+}
+
+.border-box {
+    border: 2px solid var(--secondary-color);
+    padding: 10px;
+}
+
+section#inicio p {
+    font-size: 1.2em;
+}
+
+section#contacto form label {
+    display: block;
+    margin-top: 10px;
+}
+
+h1, h2, h3 {
+    font-family: var(--font-family);
+    color: var(--primary-color);
+}
+
+p, li {
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
 }
