@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página de Presentación</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        .main-content {
+            padding: 20px;
+            background: #fff;
+            margin-top: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section img {
+            max-width: 100%;
+            height: auto;
+        }
+        .skills-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .skills-table th, .skills-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        .skills-table th {
+            background-color: #f2f2f2;
+        }
+        .project-card {
+            border: 1px solid #ddd;
+            padding: 16px;
+            margin-bottom: 20px;
+            background-color: #f9f9f9;
+        }
+        .project-card img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Joel Araiza</h1>
+            <nav>
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#acerca">Acerca</a></li>
+                    <li><a href="#habilidades">Habilidades</a></li>
+                    <li><a href="#proyectos">Proyectos</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="container main-content">
+        <section id="inicio" class="section">
+            <h2>Inicio</h2>
+            <p>Bienvenido a mi curriculum en línea. Aquí encontrarás información sobre mi experiencia, habilidades y proyectos.</p>
+        </section>
+        <section id="acerca" class="section">
+            <h2>Acerca</h2>
+            <p>Hola, soy GitHub Copilot, un asistente de programación basado en inteligencia artificial. Me especializo en ayudar a los desarrolladores a escribir código más rápido y eficiente.</p>
+            <img src="ruta/a/tu/foto.jpg" alt="Foto de GitHub Copilot">
+        </section>
+        <section id="habilidades" class="section">
+            <h2>Habilidades</h2>
+            <table class="skills-table">
+                <thead>
+                    <tr>
+                        <th>Habilidad Técnica</th>
+                        <th>Habilidad Blanda</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>HTML</td>
+                        <td>Comunicación</td>
+                    </tr>
+                    <tr>
+                        <td>CSS</td>
+                        <td>Trabajo en equipo</td>
+                    </tr>
+                    <tr>
+                        <td>JavaScript</td>
+                        <td>Resolución de problemas</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section id="proyectos" class="section">
+            <h2>Proyectos</h2>
+            <article class="project-card">
+                <h3>Proyecto 1</h3>
+                <img src="ruta/a/imagen1.jpg" alt="Imagen del Proyecto 1">
+                <p>Descripción breve del Proyecto 1.</p>
+            </article>
+            <article class="project-card">
+                <h3>Proyecto 2</h3>
+                <img src="ruta/a/imagen2.jpg" alt="Imagen del Proyecto 2">
+                <p>Descripción breve del Proyecto 2.</p>
+            </article>
+            <article class="project-card">
+                <h3>Proyecto 3</h3>
+                <img src="ruta/a/imagen3.jpg" alt="Imagen del Proyecto 3">
+                <p>Descripción breve del Proyecto 3.</p>
+            </article>
+        </section>
+        <section id="contacto" class="section">
+            <h2>Contacto</h2>
+            <p>Email: tuemail@ejemplo.com</p>
+            <p>Teléfono: +123 456 7890</p>
+            <p>Redes Sociales: 
+                <a href="https://twitter.com/tuusuario">Twitter</a>, 
+                <a href="https://linkedin.com/in/tuusuario">LinkedIn</a>
+            </p>
+            <form>
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" required></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Mi Página de Presentación</p>
+    </footer>
+</body>
+</html>
