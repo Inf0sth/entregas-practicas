@@ -10,3 +10,4 @@
 | **[Markdown](practica-3.md)** | Práctica 3 |
 | **[Web](https://inf0sth.github.io/entregas-practicas/cv-web/index.html)** | Práctica 4 y 5 |
 | **[Web](https://inf0sth.github.io/entregas-practicas/cv-web-v2/index.html)** | Práctica 6 |
+| **[Web](https://inf0sth.github.io/entregas-practicas/practica-7/index.html)** | Práctica 7 |
