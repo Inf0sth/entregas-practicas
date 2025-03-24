@@ -12,3 +12,4 @@
 | **[Web](https://inf0sth.github.io/entregas-practicas/cv-web-v2/index.html)** | Práctica 6 |
 | **[Web](https://inf0sth.github.io/entregas-practicas/practica-7/index.html)** | Práctica 7 |
 | **[Web](https://inf0sth.github.io/entregas-practicas/practica-8/index.html)** | Práctica 8 |
+| **[Web](https://inf0sth.github.io/entregas-practicas/practica-9/index.html)** | Práctica 9 |

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Usuario</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Registro</h2>
+        <form id="registerForm">
+            <input type="text" id="name" placeholder="Nombre">
+            <div class="error" id="nameError"></div>
+            
+            <input type="email" id="email" placeholder="Correo electrónico">
+            <div class="error" id="emailError"></div>
+            
+            <input type="password" id="password" placeholder="Contraseña">
+            <div class="error" id="passwordError"></div>
+            
+            <input type="password" id="confirmPassword" placeholder="Confirmar contraseña">
+            <div class="error" id="confirmPasswordError"></div>
+            
+            <button type="submit">Registrarse</button>
+            <div class="loader hidden" id="loader"></div>
+            <div id="successMessage" class="hidden">Registro exitoso!</div>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
