@@ -13,3 +13,4 @@
 | **[Web](https://inf0sth.github.io/entregas-practicas/practica-7/index.html)** | Práctica 7 |
 | **[Web](https://inf0sth.github.io/entregas-practicas/practica-8/index.html)** | Práctica 8 |
 | **[Web](https://inf0sth.github.io/entregas-practicas/practica-9/index.html)** | Práctica 9 |
+| **[Web](https://inf0sth.github.io/entregas-practicas/practica-10/index.html)** | Práctica 10 |
