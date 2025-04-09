@@ -17,6 +17,7 @@ Uso de bases de datos para uso de administradores con los objetivos de:
     - Nombres
     - Si estudian o trabajan
     - Edad
+    - Fecha de cumpleaños
     - Correo
     - Bautismos
     - Ministerio
@@ -31,7 +32,24 @@ Uso de bases de datos para uso de administradores con los objetivos de:
 
 ## Algoritmia en lenguaje natural
 
+1. Inicio
+- Selección de una sección
+    - Noticias: Despliege del Newspaper
+    - Información: Infomración de contacto y sobre la iglesia
+    - Eventos: Despliege de la información de eventos proximos
+    - Ubicación: Se muestra la ubicación de la iglesia
+    - Ingresar: Redirige a la parte privada del sitio "2"
 
+2. Login: Validación de usuario y contraseña
+- Si se logra ingresar se puede:
+    - Ver integrantes y su información
+    - Ver pendientes
+    - Ver motivos de oración
+    - Asignar responsables a diferentes eventos
+    - Agregar integrantes
+    - Eliminar integrantes
+    - Salir: Volver a "1"
+ - Si no se logra ingresar vuelve a "1"
 
 # Diagrama de flujo
 
