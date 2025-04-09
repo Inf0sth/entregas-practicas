@@ -25,7 +25,13 @@ Uso de bases de datos para uso de administradores con los objetivos de:
 - Ver motivos de oración
 - Gestionar responsables de los eventos
 
+## Moodboard
+
 ![Moodboard](assets/Moodboard.jpg)
+
+## Algoritmia en lenguaje natural
+
+
 
 # Diagrama de flujo
 
