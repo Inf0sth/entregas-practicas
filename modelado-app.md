@@ -78,7 +78,9 @@
 
     Un evento tiene un responsable (ministerio).
 
-    Un motivo de oración es registrado por un miembro.
+    Un motivo de oración es registrado por un Usuario.
+
+    Un pendiente tiene un responsable (usuario)
 
     Un usuario (admin) es quien puede administrar miembros, eventos, pendientes y motivos.
 
