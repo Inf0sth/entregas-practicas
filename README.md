@@ -15,3 +15,4 @@
 | **[Web](https://inf0sth.github.io/entregas-practicas/practica-9/index.html)** | Práctica 9 |
 | **[Web](https://inf0sth.github.io/entregas-practicas/practica-10/index.html)** | Práctica 10 |
 | **[Markdown](mi-app.md)** | Práctica 11 |
+| **[Markdown](modelado-app.md)** | Práctica 12 |

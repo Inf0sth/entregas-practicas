@@ -5,10 +5,10 @@ Una aplicación web que nos permita automatizar y agilizar algunos procesos en l
 ## Sección publica
 
 Aplicación web con el proposito de compartir: 
-- Noticias
-- Eventos
-- Informes
-- Ubicación de la iglesia
+- Noticias → Archivo estático o CMS ligero.
+- Eventos → Puede ser mostrado desde la BD si se desea.
+- Informes → PDF o enlaces de descarga.
+- Ubicación de la iglesia → Google Maps embebido.
 
 ## Seccion privada
 
