@@ -89,3 +89,7 @@
 
 ![Diagrama](assets/Diagrama%20relacional.png)
 
+
+## Supabase
+
+![Diagrama2](assets/supabase-schema.png)
